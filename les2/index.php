@@ -23,7 +23,7 @@ $mycar1->year = 2009;
 echo $mycar1->getCarInfo();*/
 
 $mycar = new Car("Honda","fit",2001);
-echo $mycar->upDA();
+echo $mycar->getCarInfo();
 
 
 ?>
